@@ -30,7 +30,7 @@ function App() {
             <img src={movie.Poster} alt={movie.Title}/>
             <h2>{movie.Title}</h2>
             <h3>{movie.Year}</h3>
-            <a src=""></a>
+            
             
             
          </div>
@@ -41,5 +41,4 @@ function App() {
    </div>
   )
 }
-
 export default App
