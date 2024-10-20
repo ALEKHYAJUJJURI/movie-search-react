@@ -10,13 +10,14 @@ Currently, two official plugins are available:
 
 Movie Search Application using CSS, HTML, BOOTSTRAP & JAVASCRIPT. Here user can search for a movie by its title and the app will use an external api from IMDb to fetch relevant data for movies displaying releated details like plot,release date, ratings etc.
 
-Features
+**Features**
 
-Movie Information – The app also provides some data about the movie like its plot, launch 12 months or so and IMDb rating.
+Movie Information – The app also provides some data about the movie like its plot, launch 12 months or so and OMDb rating.
 
-Technologies Used
+**Technologies Used**
+
 React. js: Used for constructing the UI and handling component organization.
 JavaScript (ES6+) — to manage dynamic data and API.
 CSS/HTML: Basic layout and custom css
 Bootstrap: For responsive design and styling.
-IMDb API: External API used to fetch movie data.
+OMDb API: External API used to fetch movie data.
